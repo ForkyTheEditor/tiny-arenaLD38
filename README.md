@@ -12,5 +12,6 @@ Note that I do not own most of the assets used in the game.
 
 Music by David Lopez Tichy (http://dlt.fm/)
 
+itch.io link: https://forkytheeditor.itch.io/tiny-arena
 
 
